@@ -24,3 +24,9 @@ The following steps were taken on the dataset to develop an ML model
 * After the initial scoring, the models were scored and evaluated
 * The model hyperparameters were tuned using the following measures by hand coding, using RandomizedSearchCV and GridSearchCV
 * The model outputs were evaluated with an ROC curve, Confusion Matrix, Classification Report, etc.
+
+
+
+## Next Steps
+
+See the Python notebook attached to this repository for the modeling work.
