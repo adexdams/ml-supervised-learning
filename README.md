@@ -1,5 +1,5 @@
-# ml-supervised-learning
-This ML project shows a model that classifies features into those that meet target or not.
+# ML Supervised Learning (Classification Problem)
+This ML project shows a model that classifies features into those that meet the target or not.
 
 
 ## Problem Statement
