@@ -1,16 +1,23 @@
 # ML Supervised Learning (Classification Problem)
 This ML project shows a model that classifies features into those that meet the target or not.
+* This demo was developed following the completion of the "Complete A.I. & Machine Learning, Data Science Bootcamp" courses: https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
+
 
 
 ## Problem Statement
 
-Given the data or medical information of various patients, can we predict whether the patient has heart disease or not.
+Given the data or medical information of various patients, can we predict whether the patient has heart disease or not?
+
 
 
 
 ## Data
 
-**Source of data:** Kaggle - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+**Source of data:** 
+* Kaggle - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+* UCI Medical - https://archive.ics.uci.edu/dataset/45/heart+disease
+
+
 
 
 
